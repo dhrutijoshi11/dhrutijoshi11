@@ -1,11 +1,13 @@
 ### Hi there 👋
 
+I'm Dhruti Joshi from India, a passionate Full stack Developer and upcoming Data scientist. I want to contribute my technical skills and grow into an IT industry professional by gaining more real work experience in solving real world challenges.![image](https://github.com/dhrutijoshi11/dhrutijoshi11/assets/101862826/9a82ecdf-3a7d-4101-a1b0-9c7c4675ad78) I love exploring new technologies and being a practitioner, I like to stay on top of latest trends.
+
 <!--
 **dhrutijoshi11/dhrutijoshi11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently doing my Master's in Computer Science from Texas A&M University Corpus-Christi.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
