@@ -16,7 +16,7 @@ I'm Dhruti Joshi from India, a passionate Full stack Developer and upcoming Data
 ## Skills and Experience
 * Development Languages: Java, Python, C++, C, JavaScript, HTML, CSS, PHP
 * Databases: MySQL, Snowflake, PostgreSQL
-* Framework & Technologies: Angular, NodeJS, Apache Kafka, Docker, Bootstrap, Azure, Kubernetes, Springboot
+* Framework & Technologies: Springboot,Angular, NodeJS, Apache Kafka, Docker, Bootstrap,, Kubernetes, Azure
 * Developer Tools:  IntelliJ, DBVisualiser, Visual Studio Code, Git, GitHub, MS Office, Word press, Android Studio
 
 
