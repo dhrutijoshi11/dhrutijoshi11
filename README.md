@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Dhruti Joshi
-I'm Dhruti Joshi from India, a passionate Full stack Developer and upcoming Data scientist. I want to contribute my technical skills and grow into an IT industry professional by gaining more real work experience in solving real world challenges. I love exploring new technologies and being a practitioner, I like to stay on top of latest trends.
+As a recent graduate eager to embark on a career in data science, I bring a robust foundation in data analytics, machine learning, and statistical modeling gained through coursework and hands-on projects. My practical experience includes developing and implementing data-driven solutions in course projects, where I've applied advanced techniques such as predictive modeling and data visualization. I've honed my ability to analyze complex datasets and communicate insights effectively, skills further strengthened through internships and volunteer projects. With a passion for leveraging data to solve real-world problems, I am enthusiastic about contributing to innovative projects and driving impactful results in data science.
 
 
 
