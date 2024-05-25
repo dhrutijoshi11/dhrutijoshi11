@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Dhruti Joshi
-As a recent graduate eager to embark on a career in data science, I bring a robust foundation in data analytics, machine learning, and statistical modeling gained through coursework and hands-on projects. My practical experience includes developing and implementing data-driven solutions in course projects, where I've applied advanced techniques such as predictive modeling and data visualization. I've honed my ability to analyze complex datasets and communicate insights effectively, skills further strengthened through internships and volunteer projects. With a passion for leveraging data to solve real-world problems, I am enthusiastic about contributing to innovative projects and driving impactful results in data science.
+As a recent graduate in data science, I have a strong foundation in data analytics, machine learning, and statistical modeling, with hands-on experience in predictive modeling and data visualization. Through coursework, internships, and volunteer projects, I've honed my skills in analyzing complex datasets and communicating insights effectively. I'm passionate about solving real-world problems with data and eager to contribute to impactful projects in data science.
 
 
 
