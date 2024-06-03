@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=dhrutijoshi11&style=plastic&label=profile+views&color=orange)
 
 
 # Dhruti Joshi
