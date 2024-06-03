@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=dhrutijoshi11&style=plastic&label=profile+views&color=orange)
+
+
 # Dhruti Joshi
 As a recent graduate in data science, I have a strong foundation in data analytics, machine learning, and statistical modeling, with hands-on experience in predictive modeling and data visualization. Through coursework, internships, and volunteer projects, I've honed my skills in analyzing complex datasets and communicating insights effectively. I'm passionate about solving real-world problems with data and eager to contribute to impactful projects in data science.
 
