@@ -12,26 +12,19 @@ As a data science enthusiast with a strong foundation in analytics, machine lear
 
 ## Skills & Experience
 
-- **Development Skills**:  
-  Python | SQL | Java | C++ | MATLAB | JavaScript | Golang  
+- **Development Skills**:  Python | SQL | Java | C++ | MATLAB | JavaScript | Golang  
 
-- **Data Frameworks**:  
-  Pandas | NumPy | Scikit-Learn | TensorFlow | PyTorch | Keras | Apache Kafka | Apache Spark | Flask  
+- **Data Frameworks**:  Pandas | NumPy | Scikit-Learn | TensorFlow | PyTorch | Keras | Apache Kafka | Apache Spark | Flask  
 
-- **Data Visualization**:  
-  Tableau | Matplotlib | Seaborn  
+- **Data Visualization**:  Tableau | Matplotlib | Seaborn  
 
-- **Cloud & DevOps**:  
-  AWS | Azure | Docker | Kubernetes | Airflow  
+- **Cloud & DevOps**:   AWS | Azure | Docker | Kubernetes | Airflow  
 
-- **Databases**:  
-  MySQL | Snowflake | PostgreSQL | MongoDB  
+- **Databases**:  MySQL | Snowflake | PostgreSQL | MongoDB  
 
-- **Other Skills**:  
-  Feature Engineering | Data Cleaning | Git | Linux Commands | MS Office  
+- **Other Skills**:  Feature Engineering | Data Cleaning | Git | Linux Commands | MS Office  
 
-- **Certifications**:  
-  AZ-900 | AWS Cloud Practitioner  
+- **Certifications**:  AZ-900 | AWS Cloud Practitioner  
 
 ---
 
