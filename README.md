@@ -1,31 +1,39 @@
-### Hi there 👋
+# Hi there 👋
 
+## Dhruti Joshi
 
+As a data science enthusiast with a strong foundation in analytics, machine learning, and statistical modeling, I specialize in predictive modeling, data visualization, and real-world problem solving. Through coursework, internships, and personal projects, I've gained hands-on experience analyzing complex datasets and delivering actionable insights. I'm passionate about using data to solve impactful challenges and continuously learning new techniques to expand my skill set.
 
-# Dhruti Joshi
-As a recent graduate in data science, I have a strong foundation in data analytics, machine learning, and statistical modeling, with hands-on experience in predictive modeling and data visualization. Through coursework, internships, and volunteer projects, I've honed my skills in analyzing complex datasets and communicating insights effectively. I'm passionate about solving real-world problems with data and eager to contribute to impactful projects in data science.
+- 📫 **How to reach me**: [dhrutijoshi11@gmail.com](mailto:dhrutijoshi11@gmail.com)
+- ⚡ **Fun fact**: I create content on [YouTube](https://www.youtube.com/channel/UC35XdMTXRS5pr4DDswya-xw)
+- 🌐 **My portfolio**: [Dhruti Joshi](https://dhrutijoshi11.github.io/DhrutiPortfolio/)
 
+---
 
+## Skills & Experience
 
+- **Development Skills**:  
+  Python | SQL | Java | C++ | MATLAB | JavaScript | Golang  
 
-- 📫 How to reach me **dhrutijoshi11@gmail.com**
+- **Data Frameworks**:  
+  Pandas | NumPy | Scikit-Learn | TensorFlow | PyTorch | Keras | Apache Kafka | Apache Spark | Flask  
 
-- ⚡ Fun fact **  I create content on https://www.youtube.com/channel/UC35XdMTXRS5pr4DDswya-xw **
+- **Data Visualization**:  
+  Tableau | Matplotlib | Seaborn  
 
-- My website - [Dhruti Joshi](https://dhrutijoshi11.github.io/DhrutiPortfolio/)
+- **Cloud & DevOps**:  
+  AWS | Azure | Docker | Kubernetes | Airflow  
 
+- **Databases**:  
+  MySQL | Snowflake | PostgreSQL | MongoDB  
 
-## Skills and Experience
-* Development Skills: Python | SQL | Java | C++ | MATLAB | JavaScript | Golang.
-* Data Frameworks: Pandas | NumPy | Scikit-Learn | TensorFlow | PyTorch | Keras | Apache Kafka | Apache Spark | Flask.
-* Data Visualization Tools: Tableau | Matplotlib | Seaborn 
-* Cloud and DevOps: AWS | Azure | Docker | Kubernetes | Airflow
-* Databases: MySQL| Snowflake | PostgreSQL | MongoDB 
-* Other Relevant Skills: Feature Engineering | Data Cleaning | Git | Linux Commands | MS Office
-* Certificates: AZ-900 | AWS cloud Practitioner
+- **Other Skills**:  
+  Feature Engineering | Data Cleaning | Git | Linux Commands | MS Office  
 
+- **Certifications**:  
+  AZ-900 | AWS Cloud Practitioner  
 
-
+---
 
 <!--
 **dhrutijoshi11/dhrutijoshi11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
