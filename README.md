@@ -12,7 +12,7 @@ As a data science enthusiast with a strong foundation in analytics, machine lear
 
 ## Skills & Experience
 
-- **Development Skills**:  Python | SQL | Java | C++ | MATLAB | JavaScript | Golang  
+- **Development Skills**:  Python | SQL | Java | C++ | JavaScript | Golang  
 
 - **Data Frameworks**:  Pandas | NumPy | Scikit-Learn | TensorFlow | PyTorch | Keras | Apache Kafka | Apache Spark | Flask  
 
