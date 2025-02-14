@@ -12,7 +12,7 @@ As a data science enthusiast with a strong foundation in analytics, machine lear
 
 ## Skills & Experience
 
-- **Programming Languages**: Python | SQL  Java | C++ | JavaScript
+- **Programming Languages**: Python, SQL, Java, C++, JavaScript
 - **Machine Learning & NLP**: Supervised & Unsupervised Learning, BERT, GPT, Transformer Models, Tokenization, Named Entity Recognition, Sentiment Analysis, Machine Translation
 - **Deep Learning Frameworks**: TensorFlow, PyTorch, Keras
 - **Data Processing & Visualization**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Tableau
